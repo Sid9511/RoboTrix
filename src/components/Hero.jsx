@@ -39,7 +39,7 @@ const Hero = () => {
             Unleash the power of AI within.
             Upgrade your productivity with RobtoTrix.
           </p>
-          <Button href="/pricing" white>
+          <Button href="#services" white>
             Get started
           </Button>
         </div>
